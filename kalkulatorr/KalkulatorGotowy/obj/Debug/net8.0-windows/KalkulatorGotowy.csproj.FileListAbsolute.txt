@@ -1,0 +1,17 @@
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\bin\Debug\net8.0-windows\KalkulatorGotowy.exe
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\bin\Debug\net8.0-windows\KalkulatorGotowy.deps.json
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\bin\Debug\net8.0-windows\KalkulatorGotowy.runtimeconfig.json
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\bin\Debug\net8.0-windows\KalkulatorGotowy.dll
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\bin\Debug\net8.0-windows\KalkulatorGotowy.pdb
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.Form1.resources
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.csproj.GenerateResource.cache
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.AssemblyInfoInputs.cache
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.AssemblyInfo.cs
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.csproj.CoreCompileInputs.cache
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.sourcelink.json
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.dll
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\refint\KalkulatorGotowy.dll
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.pdb
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\KalkulatorGotowy.genruntimeconfig.cache
+C:\Users\2141256\Source\Repos\KalkulatorGotowy\KalkulatorGotowy\obj\Debug\net8.0-windows\ref\KalkulatorGotowy.dll
